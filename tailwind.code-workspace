@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "tailwind",
+			"path": "../../../Documents/learning-js/tailwind"
+		},
+		{
+			"name": "img",
+			"path": "img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwind"
+	}
+}
